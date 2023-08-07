@@ -1,0 +1,19 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: sans-serif;
+}
+.image {
+        width: 100%;
+        height: auto;
+    }
+ .back{
+     margin: 10px;
+
+ }
+ .space{
+     padding: 50px;
+ }
+ .points{
+     padding: 10px;
+ }
